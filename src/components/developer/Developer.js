@@ -1,5 +1,5 @@
 import React from "react";
-import './Developer';
+import './Developer.css';
 import Terminal from '../../assets/terminal.png';
 
 const Developer = () => {
